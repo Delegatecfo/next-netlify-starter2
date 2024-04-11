@@ -19,9 +19,11 @@ export default function Home() {
     <a href="https://delegatecfo.com/">Fractional CFO</a>
     <a href="https://delegatecfo.com/">Virtual CFO Services</a>
     <a href="https://delegatecfo.com/">Virtual CFO Firms</a>
-    <a href="https://delegatecfo.com/">Virtual CFO Pricing</a>
+    <a href="https://delegatecfo.com/virtual-cfo-pricing/">Virtual CFO Pricing</a>
     <a href="https://youtube.com/redirect?q=https%3A%2F%2Fdelegatecfo.com%2F">Youtube</a>
-    <a href="https://delegatecfo.com/">Virtual Controller</a>
+    <a href="https://delegatecfo.com/virtual-controller/">Virtual Controller</a>
+    <a href="https://delegatecfo.com/virtual-accounting-manager/">Accounting Manager</a>
+    <a href="http://bugcrowd.com/external_redirect?site=https%3A%2F%2Fdelegatecfo.com">Link</a>
 
       <Footer />
     </div>
