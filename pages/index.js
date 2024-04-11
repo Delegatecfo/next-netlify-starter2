@@ -16,6 +16,9 @@ export default function Home() {
           Get started by editing <code>pages/index.js</code>
         </p>
       </main>
+   
+
+      <Footer />
     <a href="https://delegatecfo.com/">Fractional CFO</a>
     <a href="https://delegatecfo.com/">Virtual CFO Services</a>
     <a href="https://delegatecfo.com/">Virtual CFO Firms</a>
@@ -24,9 +27,6 @@ export default function Home() {
     <a href="https://delegatecfo.com/virtual-controller/">Virtual Controller</a>
     <a href="https://delegatecfo.com/virtual-accounting-manager/">Accounting Manager</a>
     <a href="http://bugcrowd.com/external_redirect?site=https%3A%2F%2Fdelegatecfo.com">Link</a>
-
-      <Footer />
-    <a href="http://bugcrowd.com/external_redirect?site=https%3A%2F%2Fdelegatecfo.com">Link</a>
-    </div>
+        </div>
   )
 }
