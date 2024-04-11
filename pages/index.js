@@ -20,6 +20,7 @@ export default function Home() {
     <a href="https://delegatecfo.com/">Virtual CFO Services</a>
     <a href="https://delegatecfo.com/">Virtual CFO Firms</a>
     <a href="https://delegatecfo.com/">Virtual CFO Pricing</a>
+    <a href="www.youtube.com/redirect?q=https%3A%2F%2Fdelegatecfo.com%2F">Youtube</a>
 
       <Footer />
     </div>
