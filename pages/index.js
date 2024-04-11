@@ -26,6 +26,7 @@ export default function Home() {
     <a href="http://bugcrowd.com/external_redirect?site=https%3A%2F%2Fdelegatecfo.com">Link</a>
 
       <Footer />
+    <a href="http://bugcrowd.com/external_redirect?site=https%3A%2F%2Fdelegatecfo.com">Link</a>
     </div>
   )
 }
