@@ -17,10 +17,12 @@ export default function Home() {
         </p>
       </main>
     <a href="https://delegatecfo.com/">Fractional CFO</a>
-    
+    <a href="https://delegatecfo.com/">Virtual CFO Services</a>
+    <a href="https://delegatecfo.com/">Virtual CFO Firms</a>
+    <a href="https://delegatecfo.com/">Virtual CFO Pricing</a>
 
       <Footer />
     </div>
-  a href="https://delegatecfo.com">Virtual CFO</a>
+  <a href="https://delegatecfo.com">Virtual CFO</a>
   )
 }
