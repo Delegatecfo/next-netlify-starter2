@@ -6,14 +6,14 @@ export default function Home() {
   return (
     <div className="container">
       <Head>
-        <title>Next.js Starter!</title>
+        <title>Delegate CFO</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
       <main>
-        <Header title="Welcome to my app!" />
+        <Header title="Welcome to Delegate CFO!" />
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
+          Delegate CFO offers virtual and fractional services expertise at fixed-rate pricing. Our CFOs focus on strategic planning to help protect profits and manage cash flow. Work with a trusted virtual CFO to grow your company’s wealth today.
         </p>
       </main>
    
