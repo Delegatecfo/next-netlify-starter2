@@ -27,6 +27,8 @@ export default function Home() {
     <a href="https://delegatecfo.com/virtual-controller/">Virtual Controller</a>
     <a href="https://delegatecfo.com/virtual-accounting-manager/">Accounting Manager</a>
     <a href="http://bugcrowd.com/external_redirect?site=https%3A%2F%2Fdelegatecfo.com">Link</a>
+    <a href="https://tinyurl.com/5268ctsb/">Link</a>
+    
         </div>
   )
 }
